@@ -1,0 +1,60 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  margin: 10px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.section
+{
+  background-image: url(../images/background.png);
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+}
+
+ul li {
+  font-size: 18px;
+  color: white;
+  list-style-type: none;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.design {
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left, center;
+  list-style: none;
+  color: white;
+  text-align: left;
+  display: block;
+}
+.button {
+  color: white;
+  font-size: 18px;
+  text-decoration: underline;
+}
